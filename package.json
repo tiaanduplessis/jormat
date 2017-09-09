@@ -1,0 +1,31 @@
+{
+  "name": "jormat",
+  "version": "1.0.0",
+  "description": "Just a generic number/string formatter",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/tiaanduplessis/jormat",
+    "type": "git"
+  },
+  "homepage": "https://github.com/tiaanduplessis/jormat",
+  "bugs": "https://github.com/tiaanduplessis/jormat",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest",
+    "format": "prettier-standard index.js",
+    "format:fix": "npm run format -- --fix",
+    "start": "npm run test",
+    "precommit": "npm test",
+    "pretest": "npm run format:fix"
+  },
+  "author": "tiaanduplessis <tiaanduplessis@hotmail.com>",
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "jest": "^21.0.2",
+    "jormat-formatters": "^1.0.0",
+    "prettier-standard": "^6.0.0"
+  }
+}
