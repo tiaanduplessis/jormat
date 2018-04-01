@@ -1,48 +1,16 @@
 
-<h1 align="center">jormat</h1>
-<div align="center">
-  <strong>Just a generic number/string formatter</strong>
-</div>
-<br>
-<div align="center">
-  <a href="https://npmjs.org/package/jormat">
-    <img src="https://img.shields.io/npm/v/jormat.svg?style=flat-square" alt="npm package version" />
-  </a>
-  <a href="https://npmjs.org/package/jormat">
-  <img src="https://img.shields.io/npm/dm/jormat.svg?style=flat-square" alt="npm downloads" />
-  </a>
-  <a href="https://github.com/feross/standard">
-    <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square" alt="standard JS linter" />
-  </a>
-  <a href="https://github.com/prettier/prettier">
-    <img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square" alt="prettier code formatting" />
-  </a>
-  <a href="https://travis-ci.org/tiaanduplessis/jormat">
-    <img src="https://img.shields.io/travis/tiaanduplessis/jormat.svg?style=flat-square" alt="travis ci build status" />
-  </a>
-  <a href="https://github.com/tiaanduplessis/jormat/blob/master/LICENSE">
-    <img src="https://img.shields.io/npm/l/jormat.svg?style=flat-square" alt="project license" />
-  </a>
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="make a pull request" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/tiaanduplessis/jormat/watchers">
-    <img src="https://img.shields.io/github/watchers/tiaanduplessis/jormat.svg?style=social" alt="Github Watch Badge" />
-  </a>
-  <a href="https://github.com/tiaanduplessis/jormat/stargazers">
-    <img src="https://img.shields.io/github/stars/tiaanduplessis/jormat.svg?style=social" alt="Github Star Badge" />
-  </a>
-  <a href="https://twitter.com/intent/tweet?text=Check%20out%20jormat!%20https://github.com/tiaanduplessis/jormat%20%F0%9F%91%8D">
-    <img src="https://img.shields.io/twitter/url/https/github.com/tiaanduplessis/jormat.svg?style=social" alt="Tweet" />
-  </a>
-</div>
-<br>
-<div align="center">
-  Built with ❤︎ by <a href="https://github.com/tiaanduplessis">tiaanduplessis</a> and <a href="https://github.com/tiaanduplessis/jormat/contributors">contributors</a>
-</div>
+# jormat
+
+> Just a generic number/string formatter
+
+[![npm package version](https://img.shields.io/npm/v/jormat.svg?style=flat-square)](https://npmjs.org/package/jormat)
+[![npm downloads](https://img.shields.io/npm/dm/jormat.svg?style=flat-square)](https://npmjs.org/package/jormat)
+[![Standard](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/feross/standard)
+[![Prettier code formatting](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![Travis ci build status](https://img.shields.io/travis/tiaanduplessis/jormat.svg?style=flat-square)](https://travis-ci.org/tiaanduplessis/jormat)
+[![Project license](https://img.shields.io/npm/l/jormat.svg?style=flat-square)](https://github.com/tiaanduplessis/jormat/blob/master/LICENSE)
+[![Make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/jormat.svg)](https://greenkeeper.io/)
 
 <h2>Table of Contents</h2>
 <details>
@@ -55,8 +23,6 @@
 </details>
 
 ## About
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/jormat.svg)](https://greenkeeper.io/)
 
 A generic string and number formatter based on [normat](https://github.com/rferro/normat).
 
