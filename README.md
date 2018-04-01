@@ -56,6 +56,8 @@
 
 ## About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/jormat.svg)](https://greenkeeper.io/)
+
 A generic string and number formatter based on [normat](https://github.com/rferro/normat).
 
 ## Install
